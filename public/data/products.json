@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Remera Galicia Migrante",
+    "price": 5500,
+    "category": "Ropa",
+    "description": "Remera 100% algodón con diseño del escudo gallego.",
+    "imageUrl": "/images/remera.png"
+  },
+  {
+    "id": 2,
+    "name": "Taza personalizada",
+    "price": 3200,
+    "category": "Regalos",
+    "description": "Taza cerámica con bandera de Galicia.",
+    "imageUrl": "/images/taza.png"
+  },
+  {
+    "id": 3,
+    "name": "Bolsa ecológica",
+    "price": 2800,
+    "category": "Regalos",
+    "description": "Bolsa de tela reutilizable Galicia Terra Meiga.",
+    "imageUrl": "/images/bolsa.png"
+  },
+  {
+    "id": 4,
+    "name": "Llavero Galicia",
+    "price": 1500,
+    "category": "Souvenirs",
+    "description": "Llavero metálico con escudo gallego.",
+    "imageUrl": "/images/llavero.png"
+  },
+  {
+    "id": 5,
+    "name": "Cuaderno A5",
+    "price": 3600,
+    "category": "Regalos",
+    "description": "Cuaderno con tapa dura y diseño bandera gallega.",
+    "imageUrl": "/images/cuaderno.png"
+  }
+]
